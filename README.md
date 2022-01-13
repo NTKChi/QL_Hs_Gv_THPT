@@ -1,5 +1,5 @@
 # QL_Hs_Gv_THPT
-#thực tập nhóm quản lý học sinh giáo viên THPT
+# Thực tập nhóm quản lý học sinh giáo viên THPT
 
  * Xây dựng phần mềm quản lý học sinh, giáo viên của trường THPT.
  * Xây dựng CSDL học sinh, giáo viên, thông tin giảng dạy (giáo viên - dạy lớp gì, lớp có những học sinh nào).
