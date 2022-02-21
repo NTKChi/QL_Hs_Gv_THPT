@@ -1,0 +1,16 @@
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\bin\Debug\netcoreapp3.1\QL_hs_gv.exe
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\bin\Debug\netcoreapp3.1\QL_hs_gv.deps.json
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\bin\Debug\netcoreapp3.1\QL_hs_gv.runtimeconfig.json
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\bin\Debug\netcoreapp3.1\QL_hs_gv.runtimeconfig.dev.json
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\bin\Debug\netcoreapp3.1\QL_hs_gv.dll
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\bin\Debug\netcoreapp3.1\QL_hs_gv.pdb
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\obj\Debug\netcoreapp3.1\QL_hs_gv.csproj.AssemblyReference.cache
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\obj\Debug\netcoreapp3.1\QL_hs_gv.csproj.GenerateResource.cache
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\obj\Debug\netcoreapp3.1\QL_hs_gv.GeneratedMSBuildEditorConfig.editorconfig
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\obj\Debug\netcoreapp3.1\QL_hs_gv.AssemblyInfoInputs.cache
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\obj\Debug\netcoreapp3.1\QL_hs_gv.AssemblyInfo.cs
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\obj\Debug\netcoreapp3.1\QL_hs_gv.csproj.CoreCompileInputs.cache
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\obj\Debug\netcoreapp3.1\QL_hs_gv.dll
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\obj\Debug\netcoreapp3.1\QL_hs_gv.pdb
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\obj\Debug\netcoreapp3.1\QL_hs_gv.genruntimeconfig.cache
+X:\QL_Hs_Gv_THPT_thuc_tap_nhom\QL_hs_gv\QL_hs_gv\obj\Debug\netcoreapp3.1\QuanLyHocSinhTHPT.GUI.frmMain.resources

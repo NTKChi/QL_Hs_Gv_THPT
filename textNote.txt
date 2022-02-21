@@ -1,1 +1,2 @@
-textnote
+DTO data transfer object
+DAO data access object
